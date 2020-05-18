@@ -68,3 +68,13 @@ class Solution(object):
         return len(seen)
         
 -------------------------------------------------------------------------------------------------------------------------------------------
+
+Output : 
+
+Your input
+["test.email+alex@leetcode.com","test.e.mail+bob.cathy@leetcode.com","testemail+david@lee.tcode.com"]
+Your answer
+2
+Expected answer
+2
+Runtime: 2 ms
